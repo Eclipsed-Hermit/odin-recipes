@@ -1,0 +1,34 @@
+h1{
+    background-color: #8B7C55;
+    text-align: center;
+    margin: 0%;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+}
+body{
+    padding: 0%;
+    background-color: #cfbf95;
+}
+
+ul,ol{
+    background-color: #8B7C55;
+    padding: 30px;
+    margin: 3px;
+    text-align: center;
+    list-style-type: none;
+}
+
+li {
+    margin: 20px;
+    font-size: 20px;
+    background-color: #B5A886;
+    
+    color: white;
+}
+
+a{
+    background-color: #B5A886;
+    color: white;
+}
